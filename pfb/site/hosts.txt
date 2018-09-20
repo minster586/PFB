@@ -1,0 +1,14 @@
+﻿# Smartcraft Block list
+# Blocking Coustom Web sites
+#
+# email admin@smartcraft.me for more info
+# http://smarcraft.me
+#
+
+127.0.0.1  localhost
+::1  localhost
+
+# [Video Host]
+0.0.0.0 youtube.com
+0.0.0.0 youtube-ui.l.google.com
+0.0.0.0 *.ytimg.com
